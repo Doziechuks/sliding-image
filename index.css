@@ -5,13 +5,11 @@
 }
 
 body {
-  border: 1px red solid;
   width: 100%;
   padding-top: 30em;
 }
 
 .main-wrapper {
-  border: 1px red solid;
   width: 100%;
   position: absolute;
   top: 0;
